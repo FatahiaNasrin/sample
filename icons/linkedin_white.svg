@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 34.69 34.69"
+	 style="enable-background:new 0 0 34.69 34.69;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#fff;}
+</style>
+<switch>
+	<g i:extraneous="self">
+		<g id="Group_84" transform="translate(410.115 4289.629)">
+			<path id="Path_108" class="st0" d="M-391.34-4260.57h-5.48v-15.75h5.42l0.13,1.77c1.64-2.01,4.38-2.75,6.82-1.84
+				c2.72,0.86,3.76,3.13,3.92,5.69c0.2,3.34,0.05,6.69,0.05,10.12h-5.52v-7.11c0-0.7,0.01-1.39,0-2.09
+				c-0.04-1.78-0.97-2.86-2.48-2.89c-1.6,0.07-2.86,1.4-2.84,3c-0.02,2.62-0.01,5.24-0.01,7.87L-391.34-4260.57z"/>
+			<path id="Path_109" class="st0" d="M-399.43-4276.33v15.75h-5.47v-15.75H-399.43z"/>
+			<path id="Path_110" class="st0" d="M-399.24-4281.08c-0.03,1.6-1.32,2.89-2.92,2.93c-1.64-0.01-2.96-1.35-2.95-2.99l0,0
+				c0.01-1.6,1.34-2.89,2.94-2.86l0.02,0C-400.53-4283.99-399.23-4282.69-399.24-4281.08z"/>
+		</g>
+	</g>
+</switch>
+</svg>

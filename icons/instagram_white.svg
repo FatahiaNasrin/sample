@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 34.69 34.69"
+	 style="enable-background:new 0 0 34.69 34.69;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#fff;}
+</style>
+<switch>
+	<g i:extraneous="self">
+		<path id="Path_103" class="st0" d="M17.4,4.7c1.76,0,3.52-0.02,5.27,0c3.99-0.01,7.23,3.21,7.24,7.2c0.05,3.61,0.05,7.23,0,10.84
+			c-0.01,3.99-3.24,7.22-7.23,7.24c-3.61,0.05-7.23,0.05-10.85,0c-3.98,0-7.21-3.23-7.22-7.21c0-0.04,0-0.08,0-0.11
+			c-0.02-3.55-0.02-7.1,0-10.65C4.55,8.04,7.71,4.77,11.67,4.7c0.08,0,0.17,0,0.25,0C13.75,4.68,15.57,4.7,17.4,4.7z M27.57,17.37
+			c0-1.76,0.01-3.52,0-5.27c0.14-2.63-1.88-4.87-4.5-5.01c-0.13-0.01-0.27-0.01-0.4,0c-3.62-0.05-7.23-0.05-10.85,0
+			c-2.64-0.07-4.84,2.01-4.92,4.66c0,0.09,0,0.18,0,0.27c-0.05,3.62-0.06,7.23,0,10.85c-0.05,2.64,2.05,4.82,4.69,4.87
+			c0.09,0,0.18,0,0.27,0c3.58,0.03,7.17,0.03,10.75,0c2.63,0.1,4.85-1.95,4.95-4.58c0.01-0.13,0-0.26,0-0.39
+			C27.59,20.95,27.57,19.16,27.57,17.37z"/>
+		<path id="Path_104" class="st0" d="M17.29,10.86c3.27,0.02,6.12,2.43,6.46,5.68c0.24,2.26-0.41,4.52-4.31,6.78
+			c-0.68,0.4-1.46,0.64-2.25,0.63c-0.01,0-0.02,0-0.03,0c-3.59-0.04-6.49-2.96-6.49-6.56c0.01-3.61,2.94-6.53,6.55-6.53L17.29,10.86
+			z M17.21,13.12C14.88,13.15,13,15.06,13,17.39c-0.01,2.35,1.9,4.27,4.25,4.27c0.02,0,0.03,0,0.05,0c2.33-0.05,4.2-1.93,4.24-4.27
+			C21.51,15.03,19.58,13.12,17.21,13.12L17.21,13.12z"/>
+		<path id="Path_105" class="st0" d="M24.02,9.08c0.82-0.03,1.51,0.62,1.54,1.44c0,0.01,0,0.03,0,0.04c0,0.83-0.67,1.52-1.5,1.54
+			c-0.83,0.01-1.51-0.66-1.52-1.5c0,0,0,0,0,0c-0.04-0.8,0.58-1.48,1.39-1.52C23.96,9.08,23.99,9.08,24.02,9.08z"/>
+	</g>
+</switch>
+</svg>
