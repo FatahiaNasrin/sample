@@ -1,11 +1,15 @@
 @font-face {
-    font-family: 'Avenir', 'Avenir-Medium', 'Avenir-Book';
-    src: url(fonts/Avenir-Medium.ttf);
-    src: url(fonts/Avenir-Book.ttf);
+    font-family: 'Avenir';
     src: url(fonts/Avenir-Black.ttf);
-    src: url(fonts/Avenir-Heavy.ttf);
   }
-  /* *{font-family: 'Raleway', sans-serif;} */
+  @font-face{
+      font-family: 'Avenir-Medium';
+      src: url(fonts/Avenir-Medium.ttf);
+  }
+  @font-face{
+      font-family: 'Avenir-Book';
+      src: url(fonts/Avenir-Book.ttf);
+  }
   body{
     width: 595px;
     height: 842px;
@@ -17,7 +21,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      font-family: 'Avenir Medium';
+      font-family: 'Avenir-Medium';
       font-size: 15px;
       height: 55px;
       background-color:#203565;
@@ -47,7 +51,7 @@
   }
 .top-left {
     position: absolute;
-    font-size: 25px;
+    font-size: 27px;
     width: 160px;
     font-family: 'Raleway';
     height: 32px;
@@ -118,6 +122,12 @@
     justify-content: space-between;
     margin-right: 10px;
 }
+sup {
+    vertical-align: super;
+    font-size: 8px;
+
+}
+
 .measurement{
     display: inline-block;
     margin-right: 5px;
