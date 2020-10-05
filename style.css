@@ -1,7 +1,11 @@
 @font-face {
-    font-family: 'Avenir';
+    font-family: 'Avenir', 'Avenir-Medium', 'Avenir-Book';
     src: url(fonts/Avenir-Medium.ttf);
+    src: url(fonts/Avenir-Book.ttf);
+    src: url(fonts/Avenir-Black.ttf);
+    src: url(fonts/Avenir-Heavy.ttf);
   }
+  /* *{font-family: 'Raleway', sans-serif;} */
   body{
     width: 595px;
     height: 842px;
@@ -13,7 +17,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      font-family: 'Avenir-medium';
+      font-family: 'Avenir Medium';
       font-size: 15px;
       height: 55px;
       background-color:#203565;
@@ -45,7 +49,7 @@
     position: absolute;
     font-size: 25px;
     width: 160px;
-    font-family: 'Avenir';
+    font-family: 'Raleway';
     height: 32px;
     color: white;
     background: #E50019;
@@ -56,8 +60,7 @@
     height: 56px;
     background-color:#203565;
     color: white;
-   font-family: 'Avenir-medium';
-    font-weight: medium;
+    font-family: 'Avenir-Medium';
     font-size: 25px;
     display: flex;
     justify-content: flex-start;
